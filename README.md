@@ -6,8 +6,6 @@
 
 Senior Software Engineer with 7 years of backend experience (Ruby on Rails, Python) and a deliberate transition into cybersecurity. I build secure, scalable systems and am actively expanding into security engineering — hands-on IVI security testing at Navinfo, volunteer research at DIVD, and AI-powered security tooling on the side.
 
-## Objective
-
 Seven years of designing APIs, automation pipelines and backend systems across automotive, healthcare and fintech has given me a deep appreciation for what it means to build *and break* software. I'm now directing that foundation toward security — contributing to real-world vulnerability disclosure at DIVD, writing network security tests for automotive IVI systems, and building tools that address AI data governance and API security challenges.
 
 ## Background
