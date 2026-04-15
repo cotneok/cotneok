@@ -1,56 +1,83 @@
 # Hello, I'm Tsotne
-<a href="https://www.linkedin.com/in/tsotne-okrostsvaridze-ab1b5958/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a back-end software engineer with 7 years of working experience and a profound interest in technology as well as dedication to solving complex problems.
+<a href="https://www.linkedin.com/in/tsotne-okrostsvaridze-ab1b5958/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tsotne.blog"><img src="https://img.shields.io/badge/-Blog-FF5722?&style=for-the-badge&logo=blogger&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/cotne.ok"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+
+Senior Software Engineer with 7 years of backend experience (Ruby on Rails, Python) and a deliberate transition into cybersecurity. I build secure, scalable systems and am actively expanding into security engineering — hands-on IVI security testing at Navinfo, volunteer research at DIVD, and AI-powered security tooling on the side.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seven years of designing APIs, automation pipelines and backend systems across automotive, healthcare and fintech has given me a deep appreciation for what it means to build *and break* software. I'm now directing that foundation toward security — contributing to real-world vulnerability disclosure at DIVD, writing network security tests for automotive IVI systems, and building tools that address AI data governance and API security challenges.
 
-## Skills
+## Background
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Area                                          | Context                                                                                   |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------|
+| Automotive IVI Security Testing (C#/.NET)     | <a href="https://www.navinfo.eu">Navinfo Europe</a> — writing functional network tests validating vehicle security requirements for BMW, Toyota, VW |
+| Responsible Disclosure Research               | <a href="https://www.divd.nl">DIVD — Dutch Institute for Vulnerability Disclosure</a> (Volunteer, Apr 2026–present) |
+| AI Security Tooling (PII interception, API auth) | <a href="https://github.com/cotneok">EvalPriv</a> — self-hosted AI gateway with PII scanning and AES-256-GCM key encryption |
+| HD Map Data Pipelines for L3+ Autonomous Driving | <a href="https://www.navinfo.eu">Navinfo Europe</a> — end-to-end backend pipelines, Kubernetes migration, CI/CD |
+| Healthcare Platform Backend                   | <a href="https://github.com/cotneok">Georgian Healthcare Group</a> — EKIMO, Georgia's largest healthcare platform |
+| SaaS Product (Full-Stack, Live)               | <a href="https://www.demoflow.dev">DemoFlow</a> — AI-powered interactive demo builder with Stripe, Supabase, RLS |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Languages & Frameworks
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%23_.NET-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
-### Endpoint
+### Infrastructure & DevOps
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?&style=for-the-badge&logo=argo&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-### SIEM
+### Databases & Messaging
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Redis-DC382D?&style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Supabase-3ECF8E?&style=for-the-badge&logo=supabase&logoColor=white" />
+</div>
+
+### Security & AI
+<div>
+    <img src="https://img.shields.io/badge/-Anthropic_Claude-D97757?&style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AES--256--GCM_Encryption-6B2D8B?&style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JWT_/_API_Key_Auth-000000?&style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PostgreSQL_RLS-336791?&style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Stripe_Webhooks-635BFF?&style=for-the-badge&logo=stripe&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber_Security_101-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pre_Security-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Networking_Basics-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker_Foundations-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python_Professional-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Learning_Kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+| Project | Description |
+|---------|-------------|
+| [DemoFlow](https://www.demoflow.dev) | Live SaaS — AI-powered interactive demo builder. Claude Vision auto-annotates screenshots; self-contained HTML exports; Stripe subscriptions; PostgreSQL RLS; rate limiting; full REST API + CLI |
+| [EvalPriv](https://github.com/cotneok) | Self-hosted AI gateway with PII interception (email, SSN, IBAN, credit card), AES-256-GCM API key encryption, live traffic feed, multi-model eval, quality judge — addresses AI data governance for regulated industries |
+| [ModelArena](https://github.com/cotneok) | Head-to-head AI model benchmarking — pairwise competitions on structured task suites, win-rate matrix, parallel API calls, position-bias elimination via random A/B swapping |
+| [Resume Tailor](https://github.com/cotneok) | Local CLI that tailors resumes to job descriptions using Claude API — fetches JS-rendered ATS pages via Playwright, performs keyword gap analysis, generates DOCX + PDF with ATS report |
+| [AI Zettelkasten](https://tsotne.blog) | Personal knowledge management combining Obsidian with Claude via MCP — atomic notes, maturity progression model, bidirectional link suggestions, cross-domain idea collision detection |
